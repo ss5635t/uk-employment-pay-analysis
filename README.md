@@ -46,6 +46,7 @@ uk-employment-pay-analysis/
 ├── uk_employment_mean_pay_analysis.ipynb
 ├── README.md
 ├── requirements.txt
+├── .gitignore
 ├── data/
 └── figures/
 ```
