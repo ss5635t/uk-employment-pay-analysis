@@ -66,6 +66,10 @@ The regression model is intentionally simple and primarily captures a linear tim
 
 The clustering analysis is exploratory rather than causal. Cluster membership should therefore be interpreted as similarity in the selected employment and pay features, not as evidence of predefined economic categories.
 
+## Data Availability
+
+The dataset used for this analysis was provided for university coursework and is not included in this repository. The notebook contains the outputs required to review the analysis.
+
 ## Purpose
 
 This project demonstrates practical skills in data cleaning, exploratory analysis, visualisation, preprocessing, supervised learning, unsupervised learning and critical model evaluation using real-world-style economic data.
