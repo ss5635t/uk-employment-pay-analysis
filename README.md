@@ -51,7 +51,7 @@ uk-employment-pay-analysis/
 └── figures/
 ```
 
-The source Excel dataset can be placed in the project directory using the filename expected by the notebook, or the `DATA_FILE` configuration value can be updated to point to its location.
+**Data availability:** The dataset used for this analysis was provided for university coursework and is not included in this repository. The notebook contains the outputs required to review the analysis.
 
 ## Methods
 
@@ -66,10 +66,6 @@ The source Excel dataset can be placed in the project directory using the filena
 The regression model is intentionally simple and primarily captures a linear time trend. Economic and industry pay data may contain seasonality, structural changes and other factors that a single time variable cannot represent.
 
 The clustering analysis is exploratory rather than causal. Cluster membership should therefore be interpreted as similarity in the selected employment and pay features, not as evidence of predefined economic categories.
-
-## Data Availability
-
-The dataset used for this analysis was provided for university coursework and is not included in this repository. The notebook contains the outputs required to review the analysis.
 
 ## Purpose
 
